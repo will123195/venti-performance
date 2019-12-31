@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/venti-performance/build/static/js/main.d7769057.chunk.js",
-    "main.js.map": "/venti-performance/build/static/js/main.d7769057.chunk.js.map",
+    "main.js": "/venti-performance/build/static/js/main.545b252b.chunk.js",
+    "main.js.map": "/venti-performance/build/static/js/main.545b252b.chunk.js.map",
     "runtime-main.js": "/venti-performance/build/static/js/runtime-main.0f399625.js",
     "runtime-main.js.map": "/venti-performance/build/static/js/runtime-main.0f399625.js.map",
     "static/js/2.e07744e1.chunk.js": "/venti-performance/build/static/js/2.e07744e1.chunk.js",
     "static/js/2.e07744e1.chunk.js.map": "/venti-performance/build/static/js/2.e07744e1.chunk.js.map",
     "index.html": "/venti-performance/build/index.html",
-    "precache-manifest.d06faabfa6a6cad5682f9256e3e059c2.js": "/venti-performance/build/precache-manifest.d06faabfa6a6cad5682f9256e3e059c2.js",
+    "precache-manifest.f2dfe4e508a415c70d05adb4dd4f4aae.js": "/venti-performance/build/precache-manifest.f2dfe4e508a415c70d05adb4dd4f4aae.js",
     "service-worker.js": "/venti-performance/build/service-worker.js",
     "static/js/2.e07744e1.chunk.js.LICENSE": "/venti-performance/build/static/js/2.e07744e1.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0f399625.js",
     "static/js/2.e07744e1.chunk.js",
-    "static/js/main.d7769057.chunk.js"
+    "static/js/main.545b252b.chunk.js"
   ]
 }

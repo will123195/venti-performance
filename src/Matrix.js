@@ -18,7 +18,7 @@ export default function Matrix({ numElements }) {
       <div>
         {Math.floor(numColorUpdates / secondsRunning)} colors per second
       </div>
-      <div style={{ width: 500 }}>
+      <div style={{ maxWidth: 500 }}>
         {elements}
       </div>
     </div>

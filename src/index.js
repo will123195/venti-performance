@@ -6,15 +6,16 @@ import { state } from 'venti'
 
 const numElements = 100
 let numColorUpdates = 0
+const duration = 30000
+const startTime = Date.now()
+state.set('startTime', startTime)
 
 function setColor(n) {
-  if (numColorUpdates === 0) {
-    state.set('startTime', Date.now())
-  }
   const randomColor = `#${Math.floor(Math.random()*16777215).toString(16)}`
   state.set(`colors.${n}`, randomColor)
   numColorUpdates++
   state.set('numColorUpdates', numColorUpdates)
+  if (Date.now() - startTime >= duration) return
   setTimeout(() => setColor(n), 0)
 }
 
