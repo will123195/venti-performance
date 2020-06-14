@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/venti-performance/build/static/js/main.545b252b.chunk.js",
-    "main.js.map": "/venti-performance/build/static/js/main.545b252b.chunk.js.map",
+    "main.js": "/venti-performance/build/static/js/main.90293322.chunk.js",
+    "main.js.map": "/venti-performance/build/static/js/main.90293322.chunk.js.map",
     "runtime-main.js": "/venti-performance/build/static/js/runtime-main.0f399625.js",
     "runtime-main.js.map": "/venti-performance/build/static/js/runtime-main.0f399625.js.map",
-    "static/js/2.e07744e1.chunk.js": "/venti-performance/build/static/js/2.e07744e1.chunk.js",
-    "static/js/2.e07744e1.chunk.js.map": "/venti-performance/build/static/js/2.e07744e1.chunk.js.map",
+    "static/js/2.143c9e34.chunk.js": "/venti-performance/build/static/js/2.143c9e34.chunk.js",
+    "static/js/2.143c9e34.chunk.js.map": "/venti-performance/build/static/js/2.143c9e34.chunk.js.map",
     "index.html": "/venti-performance/build/index.html",
-    "precache-manifest.f2dfe4e508a415c70d05adb4dd4f4aae.js": "/venti-performance/build/precache-manifest.f2dfe4e508a415c70d05adb4dd4f4aae.js",
+    "precache-manifest.343e2d8b2d691aa62383824a23d38f2c.js": "/venti-performance/build/precache-manifest.343e2d8b2d691aa62383824a23d38f2c.js",
     "service-worker.js": "/venti-performance/build/service-worker.js",
-    "static/js/2.e07744e1.chunk.js.LICENSE": "/venti-performance/build/static/js/2.e07744e1.chunk.js.LICENSE"
+    "static/js/2.143c9e34.chunk.js.LICENSE": "/venti-performance/build/static/js/2.143c9e34.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0f399625.js",
-    "static/js/2.e07744e1.chunk.js",
-    "static/js/main.545b252b.chunk.js"
+    "static/js/2.143c9e34.chunk.js",
+    "static/js/main.90293322.chunk.js"
   ]
 }
